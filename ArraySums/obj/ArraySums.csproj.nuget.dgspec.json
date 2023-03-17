@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana03\\ArraySums\\ArraySums.csproj": {}
+    "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana3\\ArraySums\\ArraySums.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana03\\ArraySums\\ArraySums.csproj": {
+    "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana3\\ArraySums\\ArraySums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana03\\ArraySums\\ArraySums.csproj",
+        "projectUniqueName": "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana3\\ArraySums\\ArraySums.csproj",
         "projectName": "ArraySums",
-        "projectPath": "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana03\\ArraySums\\ArraySums.csproj",
+        "projectPath": "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana3\\ArraySums\\ArraySums.csproj",
         "packagesPath": "C:\\Users\\kurok\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana03\\ArraySums\\obj\\",
+        "outputPath": "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana3\\ArraySums\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kurok\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

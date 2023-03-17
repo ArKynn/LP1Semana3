@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana03\\PlayerPerks\\PlayerPerks.csproj",
+      "projectUniqueName": "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana3\\PlayerPerks\\PlayerPerks.csproj",
       "projectName": "PlayerPerks",
-      "projectPath": "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana03\\PlayerPerks\\PlayerPerks.csproj",
+      "projectPath": "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana3\\PlayerPerks\\PlayerPerks.csproj",
       "packagesPath": "C:\\Users\\kurok\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana03\\PlayerPerks\\obj\\",
+      "outputPath": "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana3\\PlayerPerks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kurok\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

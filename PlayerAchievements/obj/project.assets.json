@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana03\\PlayerAchievements\\PlayerAchievements.csproj",
+      "projectUniqueName": "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana3\\PlayerAchievements\\PlayerAchievements.csproj",
       "projectName": "PlayerAchievements",
-      "projectPath": "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana03\\PlayerAchievements\\PlayerAchievements.csproj",
+      "projectPath": "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana3\\PlayerAchievements\\PlayerAchievements.csproj",
       "packagesPath": "C:\\Users\\kurok\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana03\\PlayerAchievements\\obj\\",
+      "outputPath": "C:\\Users\\kurok\\OneDrive\\Documentos\\Lusofona\\Coding\\Linguagens de Programaçao 1\\LP1Semana3\\PlayerAchievements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kurok\\AppData\\Roaming\\NuGet\\NuGet.Config"
